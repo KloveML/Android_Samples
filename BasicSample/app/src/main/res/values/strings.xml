@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">BasicSample</string>
+    <string name="loading_products">loading Products...</string>
+    <string name="cd_products_list">Product List</string>
 </resources>
