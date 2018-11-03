@@ -6,5 +6,5 @@
 
 ## 功能、框架
 
-[*] Basic
-[ ] RxJava2
+-[*] Basic
+-[ ] RxJava2
